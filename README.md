@@ -29,13 +29,3 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajulcodes&theme=merko&border=7F3FBF&background=0D1117" alt="tajulcodes's GitHub streak" width="100%"/>
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tajulcodes&show_icons=true&theme=highcontrast" width="100%"/>
-</p>
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tajulcodes&theme=outrun" width="100%"/>
-<a> 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tajulcodes&theme=outrun" width="49.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tajulcodes&theme=outrun&utcOffset=8" width="49.5%"/>
-</a>
-</p>
