@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajulcodes&label=Profile%20views&color=0e75b6&style=flat" alt="tajulcodes" /> </p>
 
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript for frontend development.**
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.**
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
 - 🛠️ I’m currently learning **AI Engineering**
 - 📫 Feel free to reach me out **mdtajuli0133@gmail.com**
 
