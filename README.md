@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/tajulcodes/banner.png" alt="tajulcodes" />
+<img align="center" src="https://github.com/tajulcodes/tajulcodes/README.md/banner.png" alt="tajulcodes" />
 <h1 align="center">Hi 👋, I'm Md Tajul Islam</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
