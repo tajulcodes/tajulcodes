@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/tajulcodes/tajulcodes/README.md/banner.png" alt="tajulcodes" />
+<p align="center">
+  <img src="./banner.png" alt="Md Tajul Islam - Full Stack Developer" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Md Tajul Islam</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
