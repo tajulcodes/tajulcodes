@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Md Tajul Islam</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tajulcodes&label=Profile%20views&color=0e75b6&style=flat" alt="tajulcodes" /> </p>
-
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript for frontend development.**
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.**
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
@@ -31,3 +29,5 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajulcodes&theme=merko&border=7F3FBF&background=0D1117" alt="tajulcodes's GitHub streak" width="100%"/>
 </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tajulcodes&label=Profile%20views&color=0e75b6&style=flat" alt="tajulcodes" /> </p>
