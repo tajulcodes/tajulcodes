@@ -8,7 +8,7 @@
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.**
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
 - 🛠️ I’m currently learning **AI Engineering**
-- 📫 Feel free to reach me out **mdtajuli0133@gmail.com**
+- 📫 Feel free to reach me out [![Email](https://shields.io)](mailto:mdtajuli0133@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
